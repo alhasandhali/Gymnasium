@@ -1,0 +1,1128 @@
+@media (min-width: 1400px) {
+    /* ================ Banner Part Start ================== */
+
+    .banner_item .banner_text h2::before,
+    .banner_item .banner_text h1::before,
+    .banner_item .banner_text p::before {
+        left: -16px;
+    }
+
+    .banner_item .banner_text h2::after,
+    .banner_item .banner_text h1::after,
+    .banner_item .banner_text p::after {
+        right: -18px;
+    }
+
+    /* ================ Banner Part End ================== */
+
+    /* ================ Class Part Start ================== */
+    .cls_text ul li {
+        width: 19.69%;
+    }
+
+    /* ================ Class Part End ================== */
+}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+    /* ================ Logos Part Start ================== */
+    .logo_slider .prev {
+        left: -18px;
+    }
+
+    .logo_slider .next {
+        right: -18px;
+    }
+
+    .logo_slider .prev,
+    .logo_slider .next {
+        font-size: 24px;
+    }
+
+    /* ================ Logos Part Start ================== */
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /* ================ Banner Part Start ================== */
+    .banner_item .banner_text h2 {
+        margin-left: 40px;
+    }
+
+    .banner_item .banner_text h2::before {
+        width: 195px;
+    }
+
+    .banner_item .banner_text h2::after {
+        width: 190px;
+    }
+
+    .banner_item .banner_text h2::before {
+        left: -95px;
+    }
+
+    .banner_item .banner_text h1::before,
+    .banner_item .banner_text p::before {
+        left: -55px;
+    }
+
+    .banner_item .banner_text h2::after,
+    .banner_item .banner_text h1::after,
+    .banner_item .banner_text p::after {
+        right: -88px;
+    }
+
+    .banner_item .banner_text p::after,
+    .banner_item .banner_text p::before {
+        top: 100px;
+    }
+
+    .banner_item .banner_text h1::after,
+    .banner_item .banner_text h1::before {
+        height: 220px;
+    }
+
+    .banner_item .banner_text p::before {
+        width: 71px;
+    }
+
+    .banner_item .banner_text p::after {
+        width: 75px;
+    }
+
+    /* ================ Banner Part End ================== */
+
+    /* ================ Class Part Start ================== */
+    .cls_text ul li {
+        width: 19.58%;
+    }
+
+    /* ================ Class Part End ================== */
+
+    /* ================ Logos Part Start ================== */
+
+    .logo_slider .prev,
+    .logo_slider .next {
+        top: 100px;
+    }
+
+    .logo_slider .prev {
+        left: 400px;
+    }
+
+    .logo_slider .next {
+        right: 400px;
+    }
+
+    /* ================ Logos Part End ================== */
+
+    /* ================ Footer Part Start ================== */
+    .foot_row .foot_three ul li {
+        width: 23.31%;
+    }
+
+    /* ================ Footer Part End ================== */
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /* =========== Menu Part Start ================ */
+    .main_menu .navbar-brand {
+        width: 190px;
+    }
+
+    .main_menu ul li a {
+        font-size: 13px;
+        padding: 0 8px !important;
+    }
+
+    /* =========== Menu Part End ================ */
+
+    /* =========== Banner Part Start ================ */
+
+    .banner_item .banner_text h2::before,
+    .banner_item .banner_text h1::before,
+    .banner_item .banner_text p::before {
+        left: -27px;
+    }
+
+    .banner_item .banner_text h2::after,
+    .banner_item .banner_text h1::after,
+    .banner_item .banner_text p::after {
+        right: -28px;
+    }
+
+    /* =========== Banner Part End ================ */
+
+    /* =========== About Part Start ================ */
+    #about {
+        padding: 65px 0 33px;
+    }
+
+    .about_text p {
+        font-size: 14px;
+        padding: 0;
+    }
+
+    .about_text p span {
+        margin: 15px 0;
+    }
+
+    /* =========== About Part End ================ */
+
+    /* =========== Gellary Part Start ================ */
+    #gellary {
+        padding: 32px 0;
+    }
+
+    .gal_img .overly {
+        transform: scale(1);
+        -webkit-transform: scale(1);
+        -moz-transform: scale(1);
+        -ms-transform: scale(1);
+        -o-transform: scale(1);
+    }
+
+    /* =========== Gellary Part End ================ */
+
+    /* =========== Team Part Start ================ */
+    #team {
+        padding: 32px 0 0px;
+    }
+
+    .team_main {
+        transform: translateY(-42px);
+        -webkit-transform: translateY(-42px);
+        -moz-transform: translateY(-42px);
+        -ms-transform: translateY(-42px);
+        -o-transform: translateY(-42px);
+    }
+
+    .team_main .team_img .overly {
+        transform: scale(1);
+        -webkit-transform: scale(1);
+        -moz-transform: scale(1);
+        -ms-transform: scale(1);
+        -o-transform: scale(1);
+    }
+
+    .team_main .team_img .overly {
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.4);
+        border: 0;
+    }
+
+    .team_main .team_text p {
+        transform: scale(1);
+        -webkit-transform: scale(1);
+        -moz-transform: scale(1);
+        -ms-transform: scale(1);
+        -o-transform: scale(1);
+    }
+
+    .team_main .team_text {
+        border: 1px solid #ddd;
+    }
+
+    /* =========== Team Part End ================ */
+
+    /* =========== Testimonial Part Start ================ */
+    #testi {
+        padding: 22px 0;
+    }
+
+    .testi_box p {
+        text-align: justify;
+    }
+
+    .test_slider ul li button {
+        width: 13px;
+        height: 13px;
+    }
+
+    .test_slider ul .slick-active button {
+        width: 16px;
+        height: 16px;
+    }
+
+    /* =========== Testimonial Part End ================ */
+
+    /* =========== Membership Part Start ================ */
+
+    #member {
+        padding: 43px 0;
+    }
+
+    .member_box h2 {
+        padding: 15px 0;
+        font-size: 15px;
+    }
+
+    .member_box .member_img {
+        padding: 25px 0;
+    }
+
+    .member_box .member_img p {
+        font-size: 40px;
+    }
+
+    .member_box .member_img p span {
+        font-size: 24px;
+    }
+
+    .member_box ul {
+        padding: 10px 0 15px;
+        background: #f1f1f1;
+    }
+
+    .member_box ul li {
+        padding: 10px 0;
+        font-size: 13px;
+    }
+
+    /* =========== Membership Part End ================ */
+
+    /* =========== Class Part Start ================ */
+    #cls_part {
+        padding: 70px 0 35px;
+    }
+
+    .cls_text ul li {
+        width: 19.42%;
+        padding: 30px 0;
+    }
+
+    /* =========== Class Part End ================ */
+
+    /* =========== Logos Part Start ================ */
+    #logos {
+        padding: 30px 0 70px;
+    }
+
+    .logo_slider .prev {
+        left: -23px;
+    }
+
+    .logo_slider .next {
+        right: -23px;
+    }
+
+    .logo_part {
+        text-align: center;
+        padding: 14px;
+        background: #f1f1f1;
+        margin: 0 12px;
+    }
+
+    /* =========== Logos Part End ================ */
+
+    /* =========== Footer Part Start ================ */
+
+    .foot_row .foot_three h3,
+    .foot_row .foot_four h3 {
+        margin-top: 25px;
+    }
+
+    /* =========== Footer Part End ================ */
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /* ======= Menu Part Start ========== */
+    .main_menu .navbar-brand {
+        width: 160px;
+        height: 50px;
+        line-height: 40px;
+    }
+
+    .main_menu {
+        background: #e23e38;
+        top: 0;
+    }
+
+    .main_menu button i {
+        color: #fff;
+    }
+
+    .main_menu .navbar-toggler:focus {
+        box-shadow: 0 0 0 0;
+    }
+
+    .main_menu ul {
+        text-align: center;
+        background: #e23e38;
+        margin-top: 1px;
+    }
+
+    .main_menu ul li a::after {
+        display: none;
+    }
+
+    .main_menu ul li {
+        border-bottom: 1px solid #fff;
+    }
+
+    .main_menu ul li:last-child {
+        border-bottom: 0;
+    }
+
+    .main_menu ul li a {
+        font-size: 14px;
+        padding: 0 !important;
+        line-height: 42px;
+    }
+
+    /* ======= Menu Part End ========== */
+
+    /* ======= Banner Part Start ========== */
+    .banner_item {
+        padding: 140px 0 100px;
+    }
+
+    .banner_item .banner_text h2::after,
+    .banner_item .banner_text h2::before,
+    .banner_item .banner_text h1::after,
+    .banner_item .banner_text h1::before,
+    .banner_item .banner_text p::after,
+    .banner_item .banner_text p::before {
+        display: none;
+    }
+
+    .banner_item .banner_text h2 {
+        font-size: 24px;
+        margin-bottom: 2px;
+    }
+
+    .banner_item .banner_text h1 {
+        font-size: 40px;
+        margin-bottom: 5px;
+    }
+
+    .banner_item .banner_text p {
+        font-size: 13px;
+        line-height: 17px;
+        padding: 0px;
+    }
+
+    .banner_item .banner_text a {
+        font-size: 15px;
+        padding: 6px 14px;
+        margin: 0 15px;
+    }
+
+    #banner ul li button {
+        width: 13px;
+        height: 13px;
+    }
+
+    #banner ul .slick-active button {
+        width: 15px;
+        height: 15px;
+    }
+
+    /* ======= Banner Part End ========== */
+
+    /* ======= About Part Start ========== */
+    #about {
+        padding: 55px 0 35px;
+    }
+
+    .about_text p {
+        font-size: 13px;
+        line-height: 20px;
+        padding: 0;
+        margin-top: 5px;
+        text-align: justify;
+    }
+
+    .about_text p span {
+        margin: 10px 0 20px;
+    }
+
+    /* ======= About Part End ========== */
+
+    /* ======= Gellary Part Start ========== */
+    #gellary {
+        padding: 20px 0;
+    }
+
+    .gal_img_three,
+    .gal_img_five {
+        margin-top: 30px;
+    }
+
+
+    .gal_img .overly {
+        transform: scale(1);
+        -webkit-transform: scale(1);
+        -moz-transform: scale(1);
+        -ms-transform: scale(1);
+        -o-transform: scale(1);
+    }
+
+    .gal_img .overly {
+        background: transparent;
+        border: 5px solid rgba(255, 255, 255, 0.5);
+    }
+
+    .gal_img .overly a {
+        color: #e23e38;
+    }
+
+    /* ======= Gellary Part End ========== */
+
+    /* ======= Team Part Start ========== */
+    #team {
+        padding: 25px 0 5px;
+    }
+
+    .team_main {
+        transform: translateY(-42px);
+        -webkit-transform: translateY(-42px);
+        -moz-transform: translateY(-42px);
+        -ms-transform: translateY(-42px);
+        -o-transform: translateY(-42px);
+    }
+
+    .team_main .team_img .overly {
+        transform: scale(1);
+        -webkit-transform: scale(1);
+        -moz-transform: scale(1);
+        -ms-transform: scale(1);
+        -o-transform: scale(1);
+    }
+
+    .team_main .team_img .overly {
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.4);
+        border: 0;
+    }
+
+    .team_main .team_text p {
+        transform: scale(1);
+        -webkit-transform: scale(1);
+        -moz-transform: scale(1);
+        -ms-transform: scale(1);
+        -o-transform: scale(1);
+    }
+
+    .team_main .team_text {
+        border: 1px solid #ddd;
+    }
+
+    /* ======= Team Part End ========== */
+
+    /* ======= Testi Part Start ========== */
+    #testi {
+        padding: 0;
+    }
+
+    .testi_box p {
+        text-align: justify;
+    }
+
+    .test_slider ul li button {
+        width: 12px;
+        height: 12px;
+    }
+
+    .test_slider ul .slick-active button {
+        width: 14px;
+        height: 14px;
+    }
+
+    /* ======= Testi Part End ========== */
+
+    /* ======= Membership Part Start ========== */
+    #member {
+        padding: 45px 0 50px;
+    }
+
+    .member_box h2 {
+        padding: 20px 0;
+        font-size: 16px;
+    }
+
+    .member_box .member_img {
+        padding: 20px 0;
+    }
+
+    .member_box .member_img p {
+        font-size: 40px;
+    }
+
+    .member_box .member_img p span {
+        font-size: 22px;
+    }
+
+    .member_box ul {
+        padding: 5px 0 8px;
+    }
+
+    .member_box ul li {
+        padding: 12px 0;
+        font-size: 14px;
+    }
+
+    .member_box a {
+        padding: 12px 0;
+        font-weight: 400;
+        font-size: 16px;
+    }
+
+    .member_box {
+        margin: 0 12px;
+    }
+
+    /* ======= Membership Part End ========== */
+
+    /* ======= CountDown Part Start ========== */
+    #count {
+        padding: 30px 0;
+    }
+
+    .count_col h3 {
+        font-size: 30px;
+    }
+
+    .count_col p {
+        font-size: 13px;
+    }
+
+    /* ======= CountDown Part End ========== */
+
+    /* ======= Class Part Start ========== */
+    #cls_part {
+        padding: 45px 0 10px;
+    }
+
+    .cls_menu {
+        height: auto;
+    }
+
+    .cls_menu li {
+        width: 33.33%;
+        height: 35px;
+    }
+
+    .cls_menu li:nth-child(1),
+    .cls_menu li:nth-child(2),
+    .cls_menu li:nth-child(3) {
+        border-bottom: 1px solid #fff;
+    }
+
+    .cls_menu li:nth-child(1),
+    .cls_menu li:nth-child(2),
+    .cls_menu li:nth-child(4),
+    .cls_menu li:nth-child(5) {
+        border-right: 1px solid #fff;
+    }
+
+    .cls_menu li button {
+        height: 35px;
+        line-height: 0;
+    }
+
+    .cls_text ul {
+        margin-top: 15px;
+    }
+
+    .cls_text ul li {
+        width: 49.51%;
+        padding: 25px 0;
+    }
+
+    .cls_text ul li:nth-child(even) {
+        margin-right: 0;
+    }
+
+    .cls_text ul li:nth-child(5) {
+        margin-right: 5px;
+    }
+
+    .cls_text ul li h4 {
+        font-size: 16px;
+    }
+
+    .cls_text ul li p {
+        font-size: 14px;
+        margin-top: -7px;
+    }
+
+    .cls_text ul li i {
+        font-size: 45px;
+    }
+
+    /* ======= Class Part End ========== */
+
+    /* ======= Logos Part Start ========== */
+    #logos {
+        padding: 35px 0 50px;
+    }
+
+    .logo_part {
+        margin: 0 12px;
+    }
+
+    /* ======= Logos Part End ========== */
+
+    /* ======= Foot Part Start ========== */
+    .foot_row {
+        padding: 20px 0;
+    }
+
+    .foot_row .foot_two h3 {
+        margin-top: 0px;
+    }
+
+    .foot_row .foot_three h3,
+    .foot_row .foot_four h3 {
+        margin-top: 20px;
+    }
+
+    .foot_row .foot_one ul {
+        margin-top: 15px;
+    }
+
+    .foot_row .foot_two ul {
+        margin-top: 15px;
+    }
+
+    .foot_row .foot_two ul li:last-child {
+        margin-top: 15px;
+    }
+
+    .foot_row .foot_two ul {
+        margin-top: 15px;
+    }
+
+    .foot_row .foot_three ul {
+        margin-top: 15px;
+    }
+
+    .foot_row .foot_three ul li {
+        width: 23.48%;
+        margin-right: 5px;
+        margin-bottom: 5px;
+    }
+
+    .foot_row .foot_four .contact ul {
+        margin-top: 10px;
+    }
+
+    .foot_row .foot_four .contact ul li {
+        margin-top: 0px;
+    }
+
+    .foot_row .foot_four .social h3 {
+        margin: 15px 0;
+    }
+
+    /* ======= Foot Part End ========== */
+}
+
+@media (max-width: 575.98px) {
+
+    /* ======= Menu Part Start ========== */
+    .main_menu .navbar-brand {
+        width: 160px;
+        height: 50px;
+        line-height: 40px;
+    }
+
+    .main_menu {
+        background: #e23e38;
+        top: 0;
+    }
+
+    .main_menu button i {
+        color: #fff;
+    }
+
+    .main_menu .navbar-toggler:focus {
+        box-shadow: 0 0 0 0;
+    }
+
+    .main_menu ul {
+        text-align: center;
+        background: #e23e38;
+        margin-top: 1px;
+    }
+
+    .main_menu ul li a::after {
+        display: none;
+    }
+
+    .main_menu ul li {
+        border-bottom: 1px solid #fff;
+    }
+
+    .main_menu ul li:last-child {
+        border-bottom: 0;
+    }
+
+    .main_menu ul li a {
+        font-size: 12px;
+        padding: 0 !important;
+        line-height: 39px;
+    }
+
+    /* ======= Menu Part End ========== */
+
+    /* ======= Banner Part Start ========== */
+    .banner_item {
+        padding: 100px 0 90px;
+    }
+
+    .banner_item .banner_text h2::after,
+    .banner_item .banner_text h2::before,
+    .banner_item .banner_text h1::after,
+    .banner_item .banner_text h1::before,
+    .banner_item .banner_text p::after,
+    .banner_item .banner_text p::before {
+        display: none;
+    }
+
+    .banner_item .banner_text h2 {
+        font-size: 20px;
+        margin-bottom: 0px;
+    }
+
+    .banner_item .banner_text h1 {
+        font-size: 33px;
+        margin-bottom: 5px;
+    }
+
+    .banner_item .banner_text p {
+        font-size: 12px;
+        line-height: 16px;
+        padding: 0;
+    }
+
+    .banner_item .banner_text a {
+        font-size: 13px;
+        padding: 5px 14px;
+        margin: 0 10px;
+    }
+
+    #banner ul li button {
+        width: 12px;
+        height: 12px;
+    }
+
+    #banner ul .slick-active button {
+        width: 14px;
+        height: 14px;
+    }
+
+    /* ======= Banner Part End ========== */
+
+    /* ======= About Part Start ========== */
+    #about {
+        padding: 45px 0 25px;
+    }
+
+    .about_text p {
+        font-size: 13px;
+        line-height: 20px;
+        padding: 0;
+        margin-top: 5px;
+        text-align: justify;
+    }
+
+    .about_text p span {
+        margin: 10px 0;
+    }
+
+    /* ======= About Part End ========== */
+
+    /* ======= Gellary Part Start ========== */
+    #gellary {
+        padding: 20px 0;
+    }
+
+    .gal_img_three,
+    .gal_img_five {
+        margin-top: 30px;
+    }
+
+    .gal_img .overly {
+        transform: scale(1);
+        -webkit-transform: scale(1);
+        -moz-transform: scale(1);
+        -ms-transform: scale(1);
+        -o-transform: scale(1);
+    }
+
+    .gal_img .overly {
+        background: transparent;
+        border: 5px solid rgba(255, 255, 255, 0.5);
+    }
+
+    .gal_img .overly a {
+        color: #e23e38;
+    }
+
+    /* ======= Gellary Part End ========== */
+
+    /* ======= Team Part Start ========== */
+    #team {
+        padding: 25px 0 5px;
+    }
+
+    .team_main {
+        transform: translateY(-42px);
+        -webkit-transform: translateY(-42px);
+        -moz-transform: translateY(-42px);
+        -ms-transform: translateY(-42px);
+        -o-transform: translateY(-42px);
+    }
+
+    .team_main .team_img .overly {
+        transform: scale(1);
+        -webkit-transform: scale(1);
+        -moz-transform: scale(1);
+        -ms-transform: scale(1);
+        -o-transform: scale(1);
+    }
+
+    .team_main .team_img .overly {
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.4);
+        border: 0;
+    }
+
+    .team_main .team_text p {
+        transform: scale(1);
+        -webkit-transform: scale(1);
+        -moz-transform: scale(1);
+        -ms-transform: scale(1);
+        -o-transform: scale(1);
+    }
+
+    .team_main .team_text {
+        border: 1px solid #ddd;
+    }
+
+    /* ======= Team Part End ========== */
+
+    /* ======= Testi Part Start ========== */
+    #testi {
+        padding: 0;
+    }
+
+    .testi_box p {
+        text-align: justify;
+    }
+
+    .test_slider ul li button {
+        width: 12px;
+        height: 12px;
+    }
+
+    .test_slider ul .slick-active button {
+        width: 14px;
+        height: 14px;
+    }
+
+    /* ======= Testi Part End ========== */
+
+    /* ======= Membership Part Start ========== */
+    #member {
+        padding: 45px 0 50px;
+    }
+
+    .member_box h2 {
+        padding: 15px 0;
+        font-size: 14px;
+    }
+
+    .member_box .member_img {
+        padding: 15px 0;
+    }
+
+    .member_box .member_img p {
+        font-size: 30px;
+    }
+
+    .member_box .member_img p span {
+        font-size: 18px;
+    }
+
+    .member_box ul {
+        padding: 5px 0 8px;
+    }
+
+    .member_box ul li {
+        padding: 7px 0;
+        font-size: 12px;
+    }
+
+    .member_box a {
+        padding: 8px 0;
+        font-weight: 500;
+        font-size: 14px;
+    }
+
+    .member_box {
+        margin: 0 12px;
+    }
+
+    /* ======= Membership Part End ========== */
+
+    /* ======= CountDown Part Start ========== */
+    #count {
+        padding: 30px 0;
+    }
+
+    .count_col h3 {
+        font-size: 25px;
+    }
+
+    .count_col p {
+        font-size: 12px;
+    }
+
+    /* ======= CountDown Part End ========== */
+
+    /* ======= Class Part Start ========== */
+    #cls_part {
+        padding: 45px 0 10px;
+    }
+
+    .cls_menu {
+        height: auto;
+    }
+
+    .cls_menu li {
+        width: 33.33%;
+        height: 35px;
+    }
+
+    .cls_menu li:nth-child(1),
+    .cls_menu li:nth-child(2),
+    .cls_menu li:nth-child(3) {
+        border-bottom: 1px solid #fff;
+    }
+
+    .cls_menu li:nth-child(1),
+    .cls_menu li:nth-child(2),
+    .cls_menu li:nth-child(4),
+    .cls_menu li:nth-child(5) {
+        border-right: 1px solid #fff;
+    }
+
+    .cls_menu li button {
+        height: 35px;
+        line-height: 0;
+    }
+
+    .cls_text ul {
+        margin-top: 15px;
+    }
+
+    .cls_text ul li {
+        width: 49.16%;
+        padding: 25px 0;
+    }
+
+    .cls_text ul li:nth-child(even) {
+        margin-right: 0;
+    }
+
+    .cls_text ul li:nth-child(5) {
+        margin-right: 5px;
+    }
+
+    .cls_text ul li h4 {
+        font-size: 14px;
+    }
+
+    .cls_text ul li p {
+        font-size: 12px;
+        margin-top: -10px;
+    }
+
+    .cls_text ul li i {
+        font-size: 40px;
+    }
+
+    /* ======= Class Part End ========== */
+
+    /* ======= Logos Part Start ========== */
+    #logos {
+        padding: 35px 0 50px;
+    }
+
+    .logo_part {
+        margin: 0 12px;
+    }
+
+    /* ======= Logos Part End ========== */
+
+    /* ======= Foot Part Start ========== */
+    .foot_row {
+        padding: 20px 0;
+    }
+
+    .foot_row .foot_two h3,
+    .foot_row .foot_three h3,
+    .foot_row .foot_four h3 {
+        margin-top: 20px;
+    }
+
+    .foot_row .foot_one ul {
+        margin-top: 15px;
+    }
+
+    .foot_row .foot_two ul {
+        margin-top: 15px;
+    }
+
+    .foot_row .foot_two ul li:last-child {
+        margin-top: 15px;
+    }
+
+    .foot_row .foot_two ul {
+        margin-top: 15px;
+    }
+
+    .foot_row .foot_three ul {
+        margin-top: 15px;
+    }
+
+    .foot_row .foot_three ul li {
+        width: 23.73%;
+        margin-right: 5px;
+        margin-bottom: 5px;
+    }
+
+    .foot_row .foot_four .contact ul {
+        margin-top: 10px;
+    }
+
+    .foot_row .foot_four .contact ul li {
+        margin-top: 0px;
+    }
+
+    .foot_row .foot_four .social h3 {
+        margin: 15px 0;
+    }
+
+    /* ======= Foot Part End ========== */
+}
+
+@media (min-width: 450px) and (max-width: 575.98px) {
+    .cls_text ul li {
+        width: 49.41%;
+    }
+}
